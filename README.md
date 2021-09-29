@@ -34,6 +34,8 @@ Precisamos instalar o socket IO na versão do cliente ou seja no fron-end
 rodar o comando abaixo na pasta do front
 ### npm install socket.io-client
 
+##
+![image](https://user-images.githubusercontent.com/90827655/135187553-7154c399-fdea-446e-bc4b-aac04029d0e4.png)
 
 
 
