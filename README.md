@@ -24,7 +24,7 @@ Socket.IO is a library that enables real-time, bidirectional and event-based com
 Permitir acesso a API
 ### npm install cors
 
-Instalar o React que é front fora da pasta backend, uma pasta anterior que vai ser o front
+Instalar o React que sera na pasta Front-end (olhar repositório front)
 ### npx create-react-app front-end
 
 Dentro da pasta front-end eu rodo
