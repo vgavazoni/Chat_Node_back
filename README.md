@@ -1,4 +1,4 @@
-Seuqencia para criar o arquivo
+Sequencia para criar o arquivo
 
 Criar o arquivo package
 ### npm init
