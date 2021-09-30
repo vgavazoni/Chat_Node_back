@@ -14,19 +14,14 @@ app.use((req, res, next) => {
 })
  
 app.get('/', function (req, res) {
-  res.send('Hello World ehehe')
+  res.send('Servidor iniciado na porta 8080: http://localhost:8080')
 })
 
 
  
 var server = app.listen(8080, ()=> {
     console.log("Servidor iniciado na porta 8080: http://localhost:8080");
-    
 });
-
-server = process.env.PORT || 8080;
-
-
 
 
 io = socket(server, {cors: {origin: "*"}});
