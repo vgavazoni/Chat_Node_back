@@ -1,4 +1,4 @@
-Seuqencia para criar o arquivo
+Sequencia para criar o arquivo
 
 Criar o arquivo package
 ### npm init
@@ -24,8 +24,15 @@ Socket.IO is a library that enables real-time, bidirectional and event-based com
 Permitir acesso a API
 ### npm install cors
 
+<<<<<<< HEAD
+=======
+Instalar o React que sera na pasta Front-end (olhar repositório front)
+### npx create-react-app front-end
+>>>>>>> cdc96b85239c0da5651f5613b8837c864d683fd8
 
 
+##
+![image](https://user-images.githubusercontent.com/90827655/135187553-7154c399-fdea-446e-bc4b-aac04029d0e4.png)
 
 
 
